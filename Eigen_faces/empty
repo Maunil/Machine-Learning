@@ -1,1 +1,2 @@
-
+Here Face_Recognition_Image_Import.m file is for prepossessing.
+Get vector X from that file and store it using data.mat file and then excess data.mat file using Eigen_faces.m  
